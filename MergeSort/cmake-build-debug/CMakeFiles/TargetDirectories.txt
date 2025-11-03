@@ -1,3 +1,0 @@
-C:/Users/BITCHES/OneDrive/Desktop/Programming/Programiranje/Domasno za sortovi/MergeSort/cmake-build-debug/CMakeFiles/MergeSort.dir
-C:/Users/BITCHES/OneDrive/Desktop/Programming/Programiranje/Domasno za sortovi/MergeSort/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/BITCHES/OneDrive/Desktop/Programming/Programiranje/Domasno za sortovi/MergeSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
